@@ -39,7 +39,7 @@
     <ProjectReference Include="$(FuseeEngineRoot)\src\Engine\Player\Core\Fusee.Engine.Player.Core.csproj">
       <PrivateAssets>analyzers</PrivateAssets>
     </ProjectReference>
-    <PackageReference Include="CommandLineParser" Version="2.8.0" />
+    <PackageReference Include="CommandLineParser" Version="2.9.1" />
     <PackageReference Include="Google.Protobuf.Tools" Version="3.11.3" />
     <!-- Do NOT update Google.Protobuf.Tools past 3.11.* without testing a clean build of the Blender plugin -->
     <PackageReference Include="Google.Protobuf.Tools" Version="3.11.4" />
