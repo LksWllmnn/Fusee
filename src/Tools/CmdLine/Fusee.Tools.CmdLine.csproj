@@ -43,7 +43,7 @@
     <PackageReference Include="Google.Protobuf.Tools" Version="3.11.3" />
     <!-- Do NOT update Google.Protobuf.Tools past 3.11.* without testing a clean build of the Blender plugin -->
     <PackageReference Include="Google.Protobuf.Tools" Version="3.11.4" />
-    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0">
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
